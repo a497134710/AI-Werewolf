@@ -113,7 +113,7 @@ export AI_MAX_TOKENS=200
 export AI_TEMPERATURE=0.9
 export OPENROUTER_API_KEY="your_openrouter_key"
 export OPENAI_API_KEY="your_openai_key"
-export DEEPSEEK_API_KEY="your_deepseek_key"
+export DEEPSEEK_API_KEY="t"
 
 # 服务器配置
 export PORT=3005
